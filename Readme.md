@@ -2,10 +2,6 @@ README.md
 
 Shadow & Reflection Removal and Enhancement
 
-Aryak Bhattacharya
-CSC 481 — Image Processing
-Final Project — Winter 2025
-
 How to Run the Code:
 
 1. The code contains various libreries which are required to make sure that the code runs smoothly. The libraries installed for the code are as follows:
@@ -37,5 +33,6 @@ functions, and it is also called by the *gui_app.py* file and doesnt need to be 
        b) Selecting Shadow Removal or Reflection Removal
        c) Running the corresponding GAN model   and
        d) Displaying and saving results
+
 
 7. The *gui_app.py*, *helper_functions.py*, *model.py*, *G_shadow_5ch.pt*, and *G_refl_5ch.pt* model files need to be placed in the same directory for seemless execution.
